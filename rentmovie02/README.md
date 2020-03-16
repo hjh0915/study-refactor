@@ -13,5 +13,5 @@ javac -d ./classes -classpath libs/jar包名.jar:. ./src/App.java
 
 java -classpath jar包名.jar:./classes App
 
-执行App
+执行App:
 java -classpath ./classes App
